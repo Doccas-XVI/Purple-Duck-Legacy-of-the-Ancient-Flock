@@ -3,7 +3,9 @@
 Um jogo 2D no estilo *roguelike*, desenvolvido em JavaScript, com o objetivo de demonstrar na prática o funcionamento de **matrizes bidimensionais** por meio de uma experiência interativa.
 
 O jogador controla o último representante da linhagem ancestral dos patos e precisa atravessar arenas, enfrentar inimigos, derrotar chefes e sobreviver a ondas cada vez mais difíceis.
-<img width="1317" height="600" alt="image" src="https://github.com/user-attachments/assets/00425ded-c3cf-4dca-9504-4cd7e054fefa" />
+
+<img width="1317" height="597" alt="image" src="https://github.com/user-attachments/assets/15bf944b-2c8d-4380-91c7-e190575acac5" />
+
 
 
 ## 🎯 Objetivo do projeto
