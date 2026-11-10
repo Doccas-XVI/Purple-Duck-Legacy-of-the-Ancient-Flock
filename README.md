@@ -8,7 +8,7 @@ O jogador controla o último representante da linhagem ancestral dos patos e pre
 
 ## 🎯 Objetivo do projeto
 
-O projeto foi desenvolvido com finalidade acadêmica, utilizando a lógica de um jogo para tornar conceitos de programação mais visuais e compreensíveis.
+O projeto foi desenvolvido com finalidade acadêmica na matéria de matemática computacional, utilizando a lógica de um jogo para tornar conceitos de programação mais visuais e compreensíveis.
 
 Seu principal objetivo é demonstrar como uma matriz 2D pode representar um ambiente virtual e controlar a posição de diferentes elementos dentro dele.
 
